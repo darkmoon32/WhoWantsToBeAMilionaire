@@ -1,0 +1,90 @@
+Kolik nohou má kočka
+2
+3
+4
+6
+3
+Jak se spočítá obvod kruhu
+pi*r^2
+pi*r
+2*pi*r
+4/3*pi*r^3
+3
+Kolik bylo přátel v seriálu Přátelé
+2
+3
+4
+6
+4
+Kolik řad má seriál Scrubs
+8
+9
+10
+11
+2
+Která z odrůd není červené víno
+tramín červený
+modrý portugal
+frankovka
+Svatovavřinecké
+1
+Jak se jmenoval představitel hlavní postavy v seriálu Scrubs
+DJ
+Tommy
+JD
+Turk
+3
+Který z uvedených stromů je jehličnatý
+Bříza
+Smrk
+Lípa
+Dub
+2
+Který z materiálů je nejtvrdší
+Slída
+Křemen
+Diamant
+Titan
+3
+Která z fakult není na UTB
+FAME
+FT
+FAI
+FIT
+4
+Kdo je nejneoblíbenější lektor automatizace na FAI
+Pavel Navrátil
+Libor Pekař
+mistrr Vašek
+Zdeněk Úředníček
+1
+Kolik je 5*5-5
+20
+30
+0
+5
+1
+Největší stát světa je
+USA
+Kanada
+Rusko
+Čína
+3
+Nejlidnatěší stát světa je
+Čína
+Rusko
+Indie
+Brazílie
+1
+Kolik kontinentů má Země
+2
+3
+4
+5
+4
+Nejpopulárnější linuxová distribuce je
+Ubuntu
+Mint
+Mageia
+Debian
+2
